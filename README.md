@@ -163,7 +163,7 @@ If using this feature, the values defined for `user_provider_credential` and `to
 ✔️ **user_provider_credential**
 
 _Required.
-Default is `username`._
+Default is `username`.
 
 The field from "users" table that contains the user unique identifier (eg. username, email, nickname). This will be confronted against `token_principal_attribute` attribute, while authenticating.
 
