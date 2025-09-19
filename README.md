@@ -1,12 +1,11 @@
 <p align="center">
   <img src="bird.png">
 </p>
-<p align="center">
-&nbsp;
-        <img src="https://img.shields.io/packagist/v/robsontenorio/laravel-keycloak-guard.svg" />
-        <img src="https://img.shields.io/packagist/dt/robsontenorio/laravel-keycloak-guard.svg" />
-      <img src="https://codecov.io/gh/robsontenorio/laravel-keycloak-guard/branch/master/graph/badge.svg?token=8ZpDarpss1"/>
 
+<p align="center">
+  <img src="https://img.shields.io/packagist/v/robsontenorio/laravel-keycloak-guard.svg" />
+  <img src="https://img.shields.io/packagist/dt/robsontenorio/laravel-keycloak-guard.svg" />
+  <img src="https://codecov.io/gh/robsontenorio/laravel-keycloak-guard/branch/master/graph/badge.svg?token=8ZpDarpss1"/>
 </p>
 
 # Simple Keycloak Guard for Laravel
