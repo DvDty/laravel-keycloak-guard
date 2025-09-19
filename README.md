@@ -88,7 +88,7 @@ Changes on `config/auth.php`
 'defaults' => [
     'guard' => 'api',                 # <-- This
     'passwords' => 'users',
-],    
+],
 'guards' => [
     'api' => [
         'driver' => 'keycloak',       # <-- This
